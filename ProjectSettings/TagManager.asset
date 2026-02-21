@@ -8,6 +8,11 @@ TagManager:
   - Bowl
   - Skin
   - Wash
+  - Stick
+  - cutting_tool
+  - seedStick
+  - skinPeace
+  - peeler
   layers:
   - Default
   - TransparentFX

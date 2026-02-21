@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: 85c834e6f35ee3e4cb0ba6f9ead07821
+guid: 45a01b62588a5a24bbae311e6bbe9937
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Patient
-    second: {fileID: 2100000, guid: 1e915fe44012b6041a8d4e286c5168c3, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
