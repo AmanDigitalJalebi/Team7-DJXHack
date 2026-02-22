@@ -13,6 +13,9 @@ TagManager:
   - seedStick
   - skinPeace
   - peeler
+  - haldi
+  - leaves
+  - seed
   layers:
   - Default
   - TransparentFX
